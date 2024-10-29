@@ -24,7 +24,6 @@ I'm a **React Developer** with a strong background in **Computer Science** and *
 - ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
 - ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
 - ![React](https://img.icons8.com/color/48/000000/react-native.png) React.js
-- ![React Query](https://img.icons8.com/color/48/000000/react-query.png) React Query
 - ![Redux](https://img.icons8.com/color/48/000000/redux.png) Redux
   
 
