@@ -1,4 +1,4 @@
-# 👋 Hello, I'm RVJVIJAY!
+# 👋 Hello, I'm VIJAY!
 
 I'm a **React Developer** with a strong background in **Computer Science** and **Information Technology**, having completed both my undergraduate and postgraduate degrees with a **CGPA of 8.0+**.
 
@@ -26,7 +26,7 @@ I'm a **React Developer** with a strong background in **Computer Science** and *
 - ![React](https://img.icons8.com/color/48/000000/react-native.png) React.js
 - ![React Query](https://img.icons8.com/color/48/000000/react-query.png) React Query
 - ![Redux](https://img.icons8.com/color/48/000000/redux.png) Redux
-- ![Ant Design](https://img.icons8.com/color/48/000000/ant-design.png) Ant-Design
+  
 
 **Backend:**
 - ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) Basic knowledge in MySQL
@@ -50,10 +50,9 @@ I'm a **React Developer** with a strong background in **Computer Science** and *
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/your-linkedin/) 
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/vj12/) 
 [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/your-twitter) 
-[![GitHub](https://img.icons8.com/color/48/000000/github.png)](https://github.com/RVJVIJAY) 
-[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/your-instagram/)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/v_i_j_a_y_______vj/?igsh=cTYyZGF5YmVxMDBv)
 
 ---
 
